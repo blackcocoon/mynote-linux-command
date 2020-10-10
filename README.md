@@ -1,3 +1,3 @@
-# linux-mynote-not-app
+# linux-mynote
 
 -> go repo wiki
