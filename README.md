@@ -4,8 +4,9 @@
 
 
 ref 
-1. https://www.learnshell.org/
-2. https://www.shellscript.sh/
-3. https://guide.bash.academy/
-4. https://tldp.org/LDP/abs/abs-guide.pdf
-5. https://www.tutorialspoint.com/unix/shell_scripting.htm
+1. https://www.lesstif.com/lpt/bash-shell-script-programming-26083916.html
+2.https://www.learnshell.org/
+3. https://www.shellscript.sh/
+4. https://guide.bash.academy/
+5. https://tldp.org/LDP/abs/abs-guide.pdf
+6. https://www.tutorialspoint.com/unix/shell_scripting.htm
