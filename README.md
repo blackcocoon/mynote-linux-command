@@ -1,3 +1,3 @@
-# linux-mynote
+# linux-command-mynote
 
 -> go repo wiki
